@@ -1,2 +1,2 @@
 # dominicbett
-Go to: ``` http://dominicbett.com ```
+Go to: ``` http://bettkd.github.io/dominicbett/ ```
